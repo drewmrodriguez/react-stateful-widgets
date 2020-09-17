@@ -18,8 +18,8 @@ This project includes a `src/components` folder containing several React compone
 
 ### Task 1: Project Set Up
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your team lead as collaborator on Github.
+- [x] Create a forked copy of this project.
+- [x] Add your team lead as collaborator on Github.
 - [ ] Clone your OWN fork of the repository using your terminal.
 - [ ] CD into the project base directory.
 - [ ] Download project dependencies by running `npm install`.
